@@ -3,6 +3,8 @@
 
 
 This repository is created for practicing Git and GitHub commands.
+This repository is only for practice.
+
 
 
 
